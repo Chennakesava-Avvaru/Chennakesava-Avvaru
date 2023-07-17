@@ -1,5 +1,5 @@
 
-# 👋 I’m @Chennakesava
+# 👋 I’m Chennakesava
 
 
 ## 🚀 About Me
