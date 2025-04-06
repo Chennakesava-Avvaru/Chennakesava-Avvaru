@@ -1,8 +1,7 @@
 
 # 👋 I’m Chennakesava
 
-
-## 🚀 About Me
-- A passionate Data Engineer actively seeking exciting opportunities to apply my expertise in ETL workflows, data pipelines, and data modeling.
-- I’m interested in collaborating on innovative projects that leverage data-driven solutions to solve complex business challenges. Let's connect and explore new horizons together!
+- IT Professional with 3+ years of experience in designing and developing Azure data solutions end to end
+- Currently working as Senior Data Engineer at Info Origin Inc
+- I have strong expertise in migration, modernization, and data engineering projects
 
