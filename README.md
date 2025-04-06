@@ -9,7 +9,7 @@
 # You can find all my work here :point_down:
 ### [Workflow Integration and Modernization](https://github.com/Chennakesava-Avvaru/Workflow-Integration-and-Modernization):
 - All about SR project
-### Business Workflow Observability Platform on Azure:
+### [Business Workflow Observability Platform on Azure](https://github.com/Chennakesava-Avvaru/Business-Workflow-Observability-Platform-on-Azure):
 - All about IPaaS
 ### SOL:
 ### SO:
