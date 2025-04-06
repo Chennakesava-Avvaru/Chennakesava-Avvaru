@@ -11,6 +11,6 @@
 - All about SR project
 ### [Business Workflow Observability Platform on Azure](https://github.com/Chennakesava-Avvaru/Business-Workflow-Observability-Platform-on-Azure):
 - All about IPaaS
-### SOL:
-### SO:
+### [Real Time Data Engineering and Analytics Platform](https://github.com/Chennakesava-Avvaru/Real-Time-Data-Engineering-and-Analytics-Platform):
+### [Data Engineering and Analytics Platform](https://github.com/Chennakesava-Avvaru/Data-Engineering-and-Analytics-Platform):
 
